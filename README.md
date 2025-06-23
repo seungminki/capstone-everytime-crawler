@@ -1,4 +1,4 @@
-# capstone-everytime-data
+# capstone-everytime-crawler
 
 **에브리타임(Everytime)** 커뮤니티의 게시글을 크롤링하기 위한 코드이며,
 학교별 커뮤니티 게시판에서 게시글의 **제목과 본문**을 수집할 수 있도록 구성되어 있습니다.
